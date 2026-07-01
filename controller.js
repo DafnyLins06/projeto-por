@@ -90,4 +90,4 @@ class BicicletaController {
     }
 }
 
-module.exports = BicicletaController;
+module.exports = BicicletaController; 
