@@ -1,8 +1,8 @@
-const Usuario = require("./Usuario");
-const Bicicleta = require("./Bicicleta");
-const Estacao = require("./Estacao");
-const BicicletaController = require("./BicicletaController");
-const Emprestimo = require("./emprestimo");
+const Usuario = require("../classes/usuario.js");
+const Bicicleta = require("../classes/bicicleta.js");
+const Estacao = require("../classes/estacao.js");
+const BicicletaController = require("../controller/controller.js");
+const Emprestimo = require("./emprestimo.js");
 
 const controller = new BicicletaController();
 
