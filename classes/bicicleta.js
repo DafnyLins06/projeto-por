@@ -13,3 +13,4 @@ class Bicicleta {
         this.disponibilidade = true;
     }
 }
+module.exports = Bicicleta;
