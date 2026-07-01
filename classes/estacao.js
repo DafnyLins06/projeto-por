@@ -5,3 +5,4 @@ class Estacao {
         this.quantidadeVagas = vagas;
     }
 }
+module.exports = Estacao; 
