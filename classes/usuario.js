@@ -13,3 +13,4 @@ class Usuario {
         this.status = "inativo";
     }
 }
+module.exports = Usuario;
